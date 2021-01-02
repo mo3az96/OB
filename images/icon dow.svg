@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="8" height="5.031" viewBox="0 0 8 5.031">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon_dow" data-name="icon dow" class="cls-1" d="M1529.44,82h7.11c0.33,0,.58.243,0.38,0.482-0.15.192-3.28,4.035-3.54,4.363a0.543,0.543,0,0,1-.77,0c-0.2-.236-3.34-4.093-3.56-4.373C1528.9,82.266,1529.08,82,1529.44,82Z" transform="translate(-1529 -82)"/>
+</svg>
