@@ -5,6 +5,7 @@ $(window).on('load', function () {
     });
 });
 $(document).ready(function () {
+    new WOW().init();
     /////////menu/////////
     $('.mo-menu-btn').click(function () {
         $(this).toggleClass('open');
